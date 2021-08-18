@@ -63940,7 +63940,7 @@ q.toString
 o=H.f4(q,j,"")
 o=H.f4(o,"In the LAST 24 HOURS...","")
 s=L.aiR(Q.eu(H.b([r,Q.eu(m,A.aA(m,m,B.b1(k),m,m,m,m,m,l,m,m,14,m,C.b9,m,m,!0,m,m,m,m,m,m,m),o)],t.cn),s,"In the "))
-r=L.aO(n.r[b].d,m,m,m,A.aA(m,m,B.b1("#223350"),m,m,m,m,m,l,m,m,20,m,m,m,m,!0,m,m,m,m,m,m,m),m,m)
+r=L.aO(n.r[b].d,3,m,m,A.aA(m,m,B.b1("#223350"),m,m,m,m,m,l,m,m,20,m,m,m,m,!0,m,m,m,m,m,m,m),m,m)
 q=T.aN(m,10,m)
 p=n.r[b]
 return T.cu(H.b([new T.ah(new V.a_(5,5,5,0),s,m),new T.ah(new V.a_(5,5,5,0),r,m),q,new T.ah(new V.a_(5,0,5,0),M.aF(m,E.js(T.cu(n.Mc(p.y,p.b,b),C.I,C.bK,C.t)),m,m,m,250,m,m,m,1/0),m)],t._),C.aB,C.F,C.t)}},
